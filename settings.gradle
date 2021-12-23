@@ -8,4 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "BytLogUtil"
 include ':app'
-include ':BytLogUtil'
+include ':BytLogUtilLib'

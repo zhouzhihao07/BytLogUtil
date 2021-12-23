@@ -11,7 +11,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/BytLogUtil" />
+            <option value="$PROJECT_DIR$/BytLogUtilLib" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
