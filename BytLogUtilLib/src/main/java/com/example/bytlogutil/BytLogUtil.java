@@ -23,7 +23,11 @@ public class BytLogUtil {
     private static boolean isAble= true;
     private static int level;
 
-    private static final String TAG = "LogUtils";
+    public static void setTAG(String TAG) {
+        BytLogUtil.TAG = TAG;
+    }
+
+    private static  String TAG = "BytLogUtil";
 
 
     public static void setIsAble(boolean isAble) {
