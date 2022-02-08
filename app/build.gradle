@@ -27,6 +27,9 @@ android {
     }
     buildToolsVersion '28.0.3'
     compileSdkVersion 28
+    aaptOptions.cruncherEnabled = false
+    aaptOptions.useNewCruncher = false
+
 }
 
 dependencies {
